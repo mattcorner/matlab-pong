@@ -1,5 +1,6 @@
 # matlab-pong
 A simple implementation of the classic arcarde game; PONG.
+
 ![Pong screenshot][screenshot]
 
 ## Get going
